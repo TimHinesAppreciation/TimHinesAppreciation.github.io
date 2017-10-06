@@ -1,0 +1,16 @@
+.tom-pic {
+	width: 100%;
+}
+.card-title {
+	color: black;
+}
+.card-block {
+	color: black;
+}
+body {
+	background: url("../imgs/tom8.jpg") no-repeat center center fixed ;
+	background-size: cover;
+}
+.card text-center {
+	color: hotpink;
+}
